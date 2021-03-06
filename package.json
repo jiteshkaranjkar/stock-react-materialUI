@@ -1,0 +1,31 @@
+{
+  "name": "stock-react-material-ui",
+  "version": "0.0.1",
+  "description": "Showcase stocks using React and Material-ui",
+  "dependencies": {
+    "@material-ui/core": "^4.11.3",
+    "@material-ui/data-grid": "^4.0.0-alpha.20",
+    "@material-ui/icons": "^4.11.2",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-scripts": "^2.0.5",
+    "notistack": "^1.0.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "cross-env CI=true react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "eslint": "^5.6.0",
+    "prettier": "^1.19.1"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
