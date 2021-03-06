@@ -16,10 +16,10 @@ npm start
 * [Project details](#details)
 * [Thrid party](#3rdParty)
 
-##Project details
+### Project details
 - This is a basic application to show stocks with material-UI using few stocks of different countries in tabs.
 - Different view of Cards and list
 - CRUD operations for stcoks using data from json files
 
-##Thrid party
+### Thrid party
 - Have used Notistcik for displaying notifications
